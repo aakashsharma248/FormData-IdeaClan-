@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormData-IdeaClan-/static/css/main.e6c13ad2.css",
+    "main.js": "/FormData-IdeaClan-/static/js/main.cb961419.js",
+    "index.html": "/FormData-IdeaClan-/index.html",
+    "main.e6c13ad2.css.map": "/FormData-IdeaClan-/static/css/main.e6c13ad2.css.map",
+    "main.cb961419.js.map": "/FormData-IdeaClan-/static/js/main.cb961419.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cb961419.js"
+  ]
+}
